@@ -1,0 +1,4 @@
+txn_id,agent_id,txn_type,amount,txn_date,amount_imputed,is_outlier,county
+1001,101,Deposit,1000,2026-10-01,False,False,Nairobi
+1002,102,Withdrawal,500,2026-10-02,False,False,Kisumu
+1003,103,Deposit,750,2026-10-03,True,False,Nakuru
